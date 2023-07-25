@@ -1,0 +1,36 @@
+const bottomData = [
+  {
+    id: 1,
+    header1: "Basic",
+    header2: "$9.99",
+    header3: "$119.99",
+    test1: "2000 Subscribers",
+    test2: "12,000 Emails/month",
+    test3: "Multi-User Accounts",
+    test4: "Email Support",
+    link: " Start Now",
+  },
+  {
+    id: 3,
+    header1: "Normal",
+    header2: "$9.99",
+    header3: "$119.99",
+    test1: "2000 Subscribers",
+    test2: "12,000 Emails/month",
+    test3: "Multi-User Accounts",
+    test4: "Email Support",
+    link: " Start Now",
+  },
+  {
+    id: 2,
+    header1: "Premium",
+    header2: "$9.99",
+    header3: "$119.99",
+    test1: "3000 Subscribers",
+    test2: "15,000 Emails/month",
+    test3: "Multi-User Accounts",
+    test4: "Email Support",
+    link: " Start Now",
+  },
+];
+export default bottomData;
